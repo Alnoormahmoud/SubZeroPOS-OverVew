@@ -1,7 +1,7 @@
 # 🧊 SubZero POS — نظام ساب زيرو لنقاط البيع
 
 <p align="center">
-  <img src="docs/images/logo.jpg" alt="SubZero POS Logo" width="180">
+  <img src="images/logo.jpg" alt="SubZero POS Logo" width="180">
 </p>
 
 <h2 align="center">نظام نقاط بيع وإدارة المبيعات والمخزون</h2>
@@ -494,7 +494,7 @@ Below are screenshots demonstrating different parts of SubZero POS.
 
 ## 1. Login
 
-![SubZero POS Login](docs/images/01-login.jpg)
+![SubZero POS Login](images/01-login.jpg)
 
 The login screen provides access control for system users.
 
@@ -502,7 +502,7 @@ The login screen provides access control for system users.
 
 ## 2. Dashboard
 
-![SubZero POS Dashboard](docs/images/02-dashboard.jpg)
+![SubZero POS Dashboard](images/02-dashboard.jpg)
 
 The main dashboard provides an overview of the POS system and quick access to the main functions.
 
@@ -510,7 +510,7 @@ The main dashboard provides an overview of the POS system and quick access to th
 
 ## 3. Point of Sale
 
-![SubZero POS Point of Sale](docs/images/03-pos.jpg)
+![SubZero POS Point of Sale](images/03-pos.jpg)
 
 The Point of Sale screen allows users to create orders and complete sales efficiently.
 
@@ -518,9 +518,9 @@ The Point of Sale screen allows users to create orders and complete sales effici
 
 ## 4. Products
 
-![SubZero POS Products](docs/images/04-products.jpg)
-![SubZero POS Products](docs/images/04-products1.jpg)
-![SubZero POS Products](docs/images/04-products2.jpg)
+![SubZero POS Products](images/04-products.jpg)
+![SubZero POS Products](images/04-products1.jpg)
+![SubZero POS Products](images/04-products2.jpg)
 
 Product management allows users to manage products, prices, categories, quantities, and images.
 
@@ -528,7 +528,7 @@ Product management allows users to manage products, prices, categories, quantiti
 
 ## 5. Orders
 
-![SubZero POS Orders](docs/images/05-orders.jpg)
+![SubZero POS Orders](images/05-orders.jpg)
 
 The orders section allows users to review and manage sales orders.
 
@@ -536,8 +536,8 @@ The orders section allows users to review and manage sales orders.
 
 ## 6. Invoice
 
-![SubZero POS Invoice](docs/images/6-invoice.jpg)
-![SubZero POS Invoice](docs/images/6-invoice1.jpg)
+![SubZero POS Invoice](images/6-invoice.jpg)
+![SubZero POS Invoice](images/6-invoice1.jpg)
 
 The invoice system provides printable and PDF-ready invoices.
 
@@ -545,8 +545,8 @@ The invoice system provides printable and PDF-ready invoices.
 
 ## 7. Shift Management
 
-![SubZero POS Shifts Management](docs/images/07-shifts.jpg)
-![SubZero POS Shifts Management](docs/images/07-shifts1.jpg)
+![SubZero POS Shifts Management](images/07-shifts.jpg)
+![SubZero POS Shifts Management](images/07-shifts1.jpg)
 
 
 Shift management allows cashiers and managers to open and close shifts and review shift totals.
@@ -555,7 +555,7 @@ Shift management allows cashiers and managers to open and close shifts and revie
 
 ## 8. Users Management
 
-![SubZero POS Users Management](docs/images/08-Users.jpg)
+![SubZero POS Users Management](images/08-Users.jpg)
 
 Users management allows managers to Add Edit, Users Informations and Delete, Deactivate Users.
 
@@ -563,7 +563,7 @@ Users management allows managers to Add Edit, Users Informations and Delete, Dea
 
 ## 9. Account Management
 
-![SubZero POS Account Management](docs/images/09-Account.jpg)
+![SubZero POS Account Management](images/09-Account.jpg)
 
 Accoount management allows Users to manage Their Own Data and Password.
 
@@ -571,8 +571,8 @@ Accoount management allows Users to manage Their Own Data and Password.
 
 ## 10. Settings
 
-![SubZero POS Settings](docs/images/10-settings.jpg)
-![SubZero POS Settings](docs/images/10-settings1.jpg)
+![SubZero POS Settings](images/10-settings.jpg)
+![SubZero POS Settings](images/10-settings1.jpg)
 
 
 The settings section allows the business to configure currencies, invoices, printing, backups, and other system options.
@@ -581,7 +581,7 @@ The settings section allows the business to configure currencies, invoices, prin
 
 ## 11. Expenses
 
-![SubZero POS Expenses](docs/images/11-Expenses.jpg)
+![SubZero POS Expenses](images/11-Expenses.jpg)
 
 The Expenses screen allows users to create and manage Daily Expenses and Net Profit and also show the Top seled Items.
 
@@ -589,8 +589,8 @@ The Expenses screen allows users to create and manage Daily Expenses and Net Pro
 
 ## 12. Reports
 
-![SubZero POS Reports](docs/images/12-Reports.jpg)
-![SubZero POS Reports](docs/images/12-Reports1.jpg)
+![SubZero POS Reports](images/12-Reports.jpg)
+![SubZero POS Reports](images/12-Reports1.jpg)
 
 
 The Reports section allows Manager to review sales and Expenses.
